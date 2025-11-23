@@ -1,5 +1,5 @@
 {
-  "name": "spamexperts-sdk",
+  "name": "@web-fuse/spamexperts-sdk",
   "version": "1.0.0",
   "type": "module",
   "main": "src/index.js",
@@ -9,7 +9,7 @@
     "prepack": "npm run build"
   },
   "keywords": [],
-  "author": "",
+  "author": "Luc Appelman",
   "license": "ISC",
   "description": "",
   "dependencies": {
