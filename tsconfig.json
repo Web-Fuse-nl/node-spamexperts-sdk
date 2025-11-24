@@ -2,6 +2,7 @@
   "extends": "./tsconfig.node20.json",
   "compilerOptions": {
     "composite": true,
+    "rootDir": "src",
     /* Language and Environment */
     "target": "ESNext",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
     "module": "NodeNext",                                /* Specify what module code is generated. */
